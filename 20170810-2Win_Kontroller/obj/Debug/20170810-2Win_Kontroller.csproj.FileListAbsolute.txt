@@ -1,0 +1,9 @@
+C:\Users\Echo\OneDrive\Hakan Csharp\20170810-2Win_Kontroller\20170810-2Win_Kontroller\bin\Debug\20170810-2Win_Kontroller.exe.config
+C:\Users\Echo\OneDrive\Hakan Csharp\20170810-2Win_Kontroller\20170810-2Win_Kontroller\bin\Debug\20170810-2Win_Kontroller.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170810-2Win_Kontroller\20170810-2Win_Kontroller\bin\Debug\20170810-2Win_Kontroller.pdb
+C:\Users\Echo\OneDrive\Hakan Csharp\20170810-2Win_Kontroller\20170810-2Win_Kontroller\obj\Debug\20170810-2Win_Kontroller.csprojResolveAssemblyReference.cache
+C:\Users\Echo\OneDrive\Hakan Csharp\20170810-2Win_Kontroller\20170810-2Win_Kontroller\obj\Debug\_20170810_2Win_Kontroller.Form1.resources
+C:\Users\Echo\OneDrive\Hakan Csharp\20170810-2Win_Kontroller\20170810-2Win_Kontroller\obj\Debug\_20170810_2Win_Kontroller.Properties.Resources.resources
+C:\Users\Echo\OneDrive\Hakan Csharp\20170810-2Win_Kontroller\20170810-2Win_Kontroller\obj\Debug\20170810-2Win_Kontroller.csproj.GenerateResource.Cache
+C:\Users\Echo\OneDrive\Hakan Csharp\20170810-2Win_Kontroller\20170810-2Win_Kontroller\obj\Debug\20170810-2Win_Kontroller.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170810-2Win_Kontroller\20170810-2Win_Kontroller\obj\Debug\20170810-2Win_Kontroller.pdb
